@@ -19,3 +19,11 @@ The idea of creating this awesome reading list is initited and inspired by , and
 ---
 
 ## Readings
+
+
+---
+
+
+## Research
+
+### Signature
